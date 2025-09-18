@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Bens Basil  
 
 ## 🚀 About Me  
-- 🎓 Future MSc Data Science student  
+- 🎓 Aspiring AI/ML Engineer
 - 💻 IT background with a growing focus on **Data Science, Machine Learning, and AI Engineering**  
 - 📊 Learning **Python, SQL, Statistics, and Machine Learning** (currently working through a 6-month roadmap)  
 - 🤖 Interested in **LLMs, AI Agents, Transformers, and Vector Embeddings**  
